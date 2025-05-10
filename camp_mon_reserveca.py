@@ -1,5 +1,6 @@
 """
 Usage:
+Update WEBHOOKS
 python camp_mon_reserveca.py <park_id> <facility_id> <comma_separated_dates>
 park_id and facility_id can be found at reservecalifornia.com URL
 Example:
